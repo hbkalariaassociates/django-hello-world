@@ -1,0 +1,7 @@
+asgiref @ file:///tmp/build/80754af9/asgiref_1605055780383/work
+certifi==2020.11.8
+Django @ file:///tmp/build/80754af9/django_1606860386887/work
+gunicorn==20.0.4
+psycopg2 @ file:///opt/concourse/worker/volumes/live/c8a4b965-959f-4e6c-7792-4aa881d63c8d/volume/psycopg2_1594305121341/work
+pytz @ file:///tmp/build/80754af9/pytz_1606604771399/work
+sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work

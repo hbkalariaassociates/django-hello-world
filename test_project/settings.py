@@ -24,7 +24,7 @@ SECRET_KEY = 'igt^d-x51d$b@ip2c^nev(uxa_%x*m6varqee#woky5k(@+&vq'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
